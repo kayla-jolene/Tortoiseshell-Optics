@@ -121,4 +121,17 @@ h2 {
 
 /*Footer*/
 
-.
+.footer {
+  background-color: azure;
+  display: flex;
+  flex-direction: row;
+}
+
+.footer img {
+  padding: 4rem 1rem 4rem 4rem;
+  height: 1.5rem;
+}
+
+.footer span {
+  padding: 4rem 0;
+}
