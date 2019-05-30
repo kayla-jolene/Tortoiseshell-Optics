@@ -64,3 +64,37 @@ header {
   margin-right: -2rem;
   background-color: white;
 }
+
+/*Information*/
+
+.icons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+  /*Icons*/
+
+.icon {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  margin: 3rem;
+  width: 5rem;
+  height: 8rem;
+}
+
+.icon img {
+  width: 5rem;
+  margin-bottom: 1rem;
+}
+
+.paper.icon img {
+  width: 3.5rem;
+}
+
+/*More Information: Philosophy / Appointments*/
+
+.
